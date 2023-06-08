@@ -1,0 +1,61 @@
+body {
+    background-color: #C0C0C0;
+    font-family: " myCursiveFont, cursive;", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+   text-align: center;
+
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-weight: 10;
+    text-shadow: 4px 2px 4px rgba(0, 0, 2, 3);
+    font-size: 200px;
+    font-family:   avenir next, sans-serif;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+    font-weight: 10;
+    text-shadow: 4px 2px 4px rgba(0, 0, 0, 1);
+    font-size: 100px;
+    font-family:   Pacifico, cursive;
+}
+p {
+    font-family: Arial, sans-serif;
+    /*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
+   font-weight: 300;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+ul#menu {
+    padding: 0;
+    margin-bottom: 11px;
+    text-align: center;
+    font-size:  40px;
+}
+
+ul#menu li {
+    display: inline;
+    margin-right: 3px;
+    text-align: center;
+}
+
+ul#menu li a {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #696969;
+    border-radius: 4px 4px 0 0;
+    text-align: center;
+}
+
+ul#menu li a:hover {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
